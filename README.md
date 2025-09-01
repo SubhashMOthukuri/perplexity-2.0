@@ -2,7 +2,7 @@
 
 ## Overview
 
-Plexa is an AI-powered conversational agent that combines the power of GPT-4 with real-time web search capabilities using the TAVILY search API. Built with LangGraph for intelligent agent creation, it delivers up-to-date, context-aware responses by streaming data from the web. The frontend is developed using Next.js, providing a sleek and responsive user interface. The entire application is containerized with Docker and deployed on the Render platform for seamless scalability.
+Perplexity-2.o is an AI-powered conversational agent that combines the power of GPT-4 with real-time web search capabilities using the TAVILY search API. Built with LangGraph for intelligent agent creation, it delivers up-to-date, context-aware responses by streaming data from the web. The frontend is developed using Next.js, providing a sleek and responsive user interface. The entire application is containerized with Docker and deployed on the Render platform for seamless scalability.
 
 ## Features
 
